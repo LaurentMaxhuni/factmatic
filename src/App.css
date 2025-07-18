@@ -1,0 +1,13 @@
+.container {
+  display: grid;
+  place-items: center;
+  place-self: center;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.logo {
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+}
