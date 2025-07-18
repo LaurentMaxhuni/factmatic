@@ -9,10 +9,19 @@ function App() {
         <p className="info">Get your daily facts from Fact Matic.</p>
         <div className="button-container">
           <button>
-            <a href="">Check out my TikTok!</a>
+            <a href="https://www.tiktok.com/@fact_matic?lang=en">
+              Check out my TikTok!
+            </a>
           </button>
           <button>
-            <a href="">Check out my Instagram!</a>
+            <a href="https://www.instagram.com/maticfact/">
+              Check out my Instagram!
+            </a>
+          </button>
+          <button>
+            <a href="https://www.threads.com/@maticfact">
+              Check out my Thread!
+            </a>
           </button>
           <button>
             <a href="">Buy my 30 days, 30 facts book!</a>
